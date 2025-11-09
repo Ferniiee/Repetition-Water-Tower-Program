@@ -1,0 +1,11 @@
+C:\Users\nuzzi\source\repos\CS111 Lab 10 Repetition Water Tower\CS111 Lab 10 Repetition Water Tower\bin\Debug\CS111 Lab 10 Repetition Water Tower.exe.config
+C:\Users\nuzzi\source\repos\CS111 Lab 10 Repetition Water Tower\CS111 Lab 10 Repetition Water Tower\bin\Debug\CS111 Lab 10 Repetition Water Tower.exe
+C:\Users\nuzzi\source\repos\CS111 Lab 10 Repetition Water Tower\CS111 Lab 10 Repetition Water Tower\bin\Debug\CS111 Lab 10 Repetition Water Tower.pdb
+C:\Users\nuzzi\source\repos\CS111 Lab 10 Repetition Water Tower\CS111 Lab 10 Repetition Water Tower\obj\Debug\CS111 Lab 10 Repetition Water Tower.csproj.AssemblyReference.cache
+C:\Users\nuzzi\source\repos\CS111 Lab 10 Repetition Water Tower\CS111 Lab 10 Repetition Water Tower\obj\Debug\CS111_Lab_10_Repetition_Water_Tower.Form1.resources
+C:\Users\nuzzi\source\repos\CS111 Lab 10 Repetition Water Tower\CS111 Lab 10 Repetition Water Tower\obj\Debug\CS111_Lab_10_Repetition_Water_Tower.Properties.Resources.resources
+C:\Users\nuzzi\source\repos\CS111 Lab 10 Repetition Water Tower\CS111 Lab 10 Repetition Water Tower\obj\Debug\CS111 Lab 10 Repetition Water Tower.csproj.GenerateResource.cache
+C:\Users\nuzzi\source\repos\CS111 Lab 10 Repetition Water Tower\CS111 Lab 10 Repetition Water Tower\obj\Debug\CS111 Lab 10 Repetition Water Tower.csproj.CoreCompileInputs.cache
+C:\Users\nuzzi\source\repos\CS111 Lab 10 Repetition Water Tower\CS111 Lab 10 Repetition Water Tower\obj\Debug\CS111 Lab 10 Repetition Water Tower.exe
+C:\Users\nuzzi\source\repos\CS111 Lab 10 Repetition Water Tower\CS111 Lab 10 Repetition Water Tower\obj\Debug\CS111 Lab 10 Repetition Water Tower.pdb
+C:\Users\nuzzi\source\repos\CS111 Lab 10 Repetition Water Tower\CS111 Lab 10 Repetition Water Tower\obj\Debug\CS111 Lab 10 Repetition Water Tower.exe.config
